@@ -1,0 +1,14 @@
+﻿Menggunakan ic Chip,SIM800
+Tegangan ke VCC,"Antara 3.7 – 4.2Vdc (tetapi pada datasheet = 3.4 – 4.4V), dan disarankan menggunakan 3.7 Vdc agar tidak terdapat notifikasi “Over Voltage”"
+Bekerja pada frequency,GSM yaitu QuadBand (850/900/1800/1900Mhz)
+Konektifitas,"Class 1 (1W) pada DCS 1800 dan PCS 1900GPRS, sedangkan pada class 4 (2W) pada GSM 850 dan EGSM 900"
+GPRS ,Multi-slot class 1~12 (option) tetapi default pada class 12
+Suhu pengoperasian normal,40°C ~ +85°C
+Menggunakan port,"Port TTL serial port, sehingga dapat langsung diakses menggunakan microcontroler tanpa perlu memerlukan MAX232"
+Transmitting power,
+Power module,"Automatically boot, homing network"
+Terdapat Led pada modul,"Berfungsi sebagai indikator. Apabilapada module terhubung dengan jaringan GSM maka LED akan berkedip perlahan, akan tetapi apabila tidak ada sinyal maka LED akan berkedip cepat."
+Ukuran module,2.5cm x 2.3cm
+,
+,
+,
